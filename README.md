@@ -20,7 +20,7 @@ Bu projede genel olarak hedeflenen, hastanelerin ve kan ihtiyacı olan kişileri
 
 ## Projeyi Nasıl Çalıştırırım
 
- Dilerseniz [Beta-Kan-Bankasi](http://kullanicideneyimleri.coolpage.biz/login.php) siteye erişebilirsiniz yada  github üzerinden site için tüm gerekli dosyalarıyla birlikte indirip, xampp gibi bir web sunucu yazılımı ile gerekli dosyaları uygun klasöre aktarıp (xampp için; xampp\htdocs\ ) kendi localhost adresinizden deneyebilir phpMyAdmin gibi veritabanı yönetim sistemleri üzerinden değişikleri görebilirsiniz.
+ Dilerseniz [Beta-Kan-Bankasi](http://kullanicideneyimleri.coolpage.biz/login.php) siteye erişebilirsiniz (hazır hesap icin; Hastane Email: kizilay@gmail.com Hastane Password: kizilay kullabilirsiniz.) yada  github üzerinden site için tüm gerekli dosyalarıyla birlikte indirip, xampp gibi bir web sunucu yazılımı ile gerekli dosyaları uygun klasöre aktarıp (xampp için; xampp\htdocs\ ) kendi localhost adresinizden deneyebilir phpMyAdmin gibi veritabanı yönetim sistemleri üzerinden değişikleri görebilirsiniz.
 
 ![dow](https://user-images.githubusercontent.com/51748845/122423036-4aafa080-cf96-11eb-83b2-8db8615ef8f7.jpg)
 
